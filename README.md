@@ -4,4 +4,5 @@ This appendix contains some supplementary information of the paper published on 
 
 Paper Title: Integrated extensive detection, contact tracing and dynamical social distancing interventions to prevent future epidemic waves
 Authors: Xiao Hong, Yuexing Han and Bing Wang
+
 DOI: 10.1109/TSMC.2023.3283091
